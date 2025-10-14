@@ -4,7 +4,7 @@
 
 ---
 
-### 📄 CV: [View CV](./CV/Generalist%20Game%20Designer%20-%20Konstantin-Galaev-CV-EN.pdf)
+### 📄 [View CV](./CV/Generalist%20Game%20Designer%20-%20Konstantin-Galaev-CV-EN.pdf)
 ### 🗂️ [View Some Work Examples](./PORTFOLIO.md)
 
 ---
