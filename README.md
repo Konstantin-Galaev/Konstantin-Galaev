@@ -4,12 +4,12 @@
 
 ---
 
-### 📄 [CV](./CV/Generalist%20Game%20Designer%20-%20Konstantin-Galaev-CV-EN.pdf)
+### 📄 CV: [View CV](./CV/Generalist%20Game%20Designer%20-%20Konstantin-Galaev-CV-EN.pdf)
 ### 🗂️ [View Some Work Examples](./PORTFOLIO.md)
 
 ---
 
 ### 🔗 Contacts
-- [LinkedIn](https://www.linkedin.com/in/galaev-konstantin/)
-- [Email](mailto:kv.galaev@gmail.com)
-- [GitHub](https://github.com/Konstantin-Galaev)
+- LinkedIn: [/galaev-konstantin](https://www.linkedin.com/in/galaev-konstantin/)
+- E-mail: [kv.galaev@gmail.com](mailto:kv.galaev@gmail.com)
+- Telegram: [@godraker](https://t.me/GODraker)
