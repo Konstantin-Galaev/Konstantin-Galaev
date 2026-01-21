@@ -3,8 +3,7 @@
 ## 1. WorldShards Construction Mode
 A flexible construction system for placing modular objects in 3D environment.
 
-**Media:**  
-- Screenshots: ![Build1](./media/worldshards_buildmode.png)
+![Build1](./media/worldshards_buildmode.png)
 
 Key features:
 
@@ -20,11 +19,10 @@ Key features:
 
 ## 2. Interactive Puzzles & Props
 Collection of interactive objects and logic puzzles for adventure maps.
-
-
-**Media:**  
-- Screenshot: ![Puzzle1](./media/puzzle_01.png)
+ 
+![Puzzle1](./media/puzzle_01.png)
 - Video: [View on Google Drive](https://drive.google.com/file/d/10bNhZQxC3nMW5a3WrnIlYyWvgOiUQRf8/view?usp=sharing)
+- Example of a technical specification for programmers for the final version of a puzzle mechanic (https://docs.google.com/document/d/1QC5IL1CiAI1ZYtQUN-0JckxW1egm7xtRtRibfJPa3SU/edit?usp=sharing)
 
 - 18 types of customizable logic and arcade puzzles for a 3D adventure game
 
